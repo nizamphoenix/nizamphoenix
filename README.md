@@ -8,9 +8,9 @@ I have a strong background in Computer Science and Data Science.
 -->
 
 
-- 🔭 I’m currently working on Data science, Machine learning applications to medical imaging, NLP, Google cloud platform.
-- 🌱 I’m currently learning Graph neural networks and its application to processing medical images | Functional programming.
-- 👯 I’m looking to collaborate on Machine learning applications to medical imaging or NLP.
-- 🤔 I’m looking for help with Graph neural networks
+- 🔭 I’m currently working on projects related to Data science, Machine learning applications to medical imaging, and NLP. I often work with Google cloud platform.
+- 🌱 I’m currently learning Graph neural networks and its application to processing medical images, also focusing on writing code, adhering to functional programming principles.
+- 👯 I’m looking to collaborate on Machine learning applications to medical imaging.
+- 🤔 I’m looking for help with applications of Graph neural networks 
 - 💬 Ask me about Data Science, Computer Science and wildlife in the Arctic!
 - 😄 Pronouns: He/Him

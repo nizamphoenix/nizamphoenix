@@ -12,4 +12,4 @@ I have a strong background in Computer Science and Data Science.
 I love writing code adhering to established software programming principles.
 - 🌱 I’m currently learning about functional programming, graph neural networks and production cycle of ML models.
 - 💬 Ask me about Data Science, Computer Science, or wildlife in the Arctic!
-- 😄 Pronouns: He/Him
+

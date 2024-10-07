@@ -7,5 +7,5 @@ I am an experienced ML engineer with a strong background in Computer Science and
 -->
 
 
-I’m currently working on projects in data science, machine learning applications to time-series, computer vision, and NLP problems. I usually work on either the AWS or GCP, leveraging their offerings to process data and build efficient CI/CD pipelines. 
+I’m currently working on projects in data science, machine learning applications to time-series, computer vision, and NLP problems. 
 I enjoy writing code adhering to established software programming principles.

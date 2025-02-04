@@ -1,4 +1,4 @@
-### Hi there!
+### Hey there! I am using GitHub.
 
 I am an experienced ML engineer with a strong background in Computer Science and Data Science.  
 

@@ -1,6 +1,7 @@
 ### Hey there! I am using GitHub 🤓
 
-Are we thinking machines that feel, or feeling bodies that think ? 🙃
+_Are we thinking machines that feel, or feeling bodies that think ?_ 🙃
+
 <!--
 **nizamphoenix/nizamphoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
